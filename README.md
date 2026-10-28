@@ -2,7 +2,7 @@
 
 Source for my personal portfolio. It covers my work and accomplishments in **engineering** and **business leadership**
 
-Projects in progress where portfolio site will be updated live.
+Projects in progress, portfolio site will be updated live.
 
 ## Want to see it?
 
